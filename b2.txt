@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "this is b2 branch file" 
+=======
+"this is b2 branch file"
+>>>>>>> f9994f76e6019ff54b56e4bebc96fe1cee13e2a7
